@@ -1,0 +1,9 @@
+data;plataforma;conta;campanha;conjunto;anuncio;moeda;fuso_conta;janela_atribuicao;investimento;impressoes;cliques_link;compras_atribuidas;receita_atribuida
+2026-10-01;Meta;Loja Exemplo;Prospeccao Principal;Amplo;Video A;BRL;America/Sao_Paulo;desconhecida;150,00;12000;210;6;720,00
+2026-10-01;Meta;Loja Exemplo;Prospeccao Principal;Amplo;Imagem B;BRL;America/Sao_Paulo;desconhecida;100,00;9000;130;2;240,00
+2026-10-02;Meta;Loja Exemplo;Prospeccao Principal;Amplo;Video A;BRL;America/Sao_Paulo;desconhecida;170,00;13200;224;5;600,00
+2026-10-02;Meta;Loja Exemplo;Prospeccao Principal;Amplo;Imagem B;BRL;America/Sao_Paulo;desconhecida;110,00;9500;135;3;360,00
+2026-10-03;Meta;Loja Exemplo;Prospeccao Principal;Amplo;Video A;BRL;America/Sao_Paulo;desconhecida;180,00;13800;230;7;840,00
+2026-10-03;Meta;Loja Exemplo;Prospeccao Principal;Amplo;Imagem B;BRL;America/Sao_Paulo;desconhecida;120,00;9800;140;2;240,00
+2026-10-04;Meta;Loja Exemplo;Prospeccao Principal;Amplo;Video A;BRL;America/Sao_Paulo;desconhecida;200,00;15100;247;5;600,00
+2026-10-04;Meta;Loja Exemplo;Prospeccao Principal;Amplo;Imagem B;BRL;America/Sao_Paulo;desconhecida;130,00;10300;147;3;360,00

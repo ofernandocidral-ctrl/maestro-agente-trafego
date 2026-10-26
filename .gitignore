@@ -1,0 +1,31 @@
+# Contexto e dados privados criados durante o uso
+CONTEXTO.md
+JORNADA.md
+dados/
+relatorios/
+clientes/
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+CLAUDE.local.md
+.claude/settings.local.json
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+service-account*.json
+meta-token*
+meta-credentials*
+*.secret
+
+# Sistema e caches
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+.pytest_cache/
+.venv/
+node_modules/
