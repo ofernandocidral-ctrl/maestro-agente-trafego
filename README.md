@@ -7,7 +7,7 @@
 
 O Maestro analisa relatórios de anúncios, explica o que os dados sustentam e organiza próximos passos para você avaliar. Você começa com uma planilha de demonstração e pode usar os próprios relatórios quando estiver pronto.
 
-[Começar agora](#-comece-em-3-minutos) · [O que ele faz](#-o-que-o-maestro-faz) · [Segurança](#-seus-dados-e-a-segurança)
+[Começar agora](#-comece-em-3-minutos) · [Seis pedidos prontos](#-seis-pedidos-prontos) · [Segurança](#-seus-dados-e-a-segurança)
 
 </div>
 
@@ -39,7 +39,7 @@ Se a ferramenta não carregar `AGENTS.md` automaticamente, peça:
 
 O Maestro vai apresentar a configuração em etapas curtas e perguntar uma coisa por vez. Para testar sem usar dados da sua empresa, escolha a demonstração com `exemplos/campanhas-ficticias.csv`.
 
-**Pronto.** Você já pode pedir uma auditoria, comparar anúncios ou planejar testes.
+**Pronto.** Abra [`PEDIDOS-PRONTOS.md`](PEDIDOS-PRONTOS.md), escolha um dos seis pedidos e cole na conversa. Comece pelo raio-x geral.
 
 ### Se a ferramenta só aceitar um prompt
 
@@ -62,6 +62,10 @@ O Maestro tem oito modos de análise. Chame pelo número ou simplesmente descrev
 
 Você também pode perguntar `quais dados faltam?`, `mostrar fontes` ou `mostrar jornada`.
 
+## ✍️ Seis pedidos prontos
+
+Depois da configuração, não precisa inventar o que perguntar. O arquivo [`PEDIDOS-PRONTOS.md`](PEDIDOS-PRONTOS.md) traz seis textos para copiar e colar: raio-x, comparação de períodos, análise por anúncio, diagnóstico de funil, avaliação de orçamento e plano de testes. Preencha os campos entre colchetes quando souber; o Maestro deve pedir só o dado que realmente estiver faltando.
+
 ## 📊 Teste primeiro com dados fictícios
 
 Você pode experimentar o Maestro sem conectar uma conta. A pasta inclui um CSV de demonstração com **dados totalmente fictícios**. Ele serve para ver como o Maestro lê investimento, impressões, cliques, compras atribuídas e receita atribuída.
@@ -81,6 +85,7 @@ maestro-agente-trafego/
 ├── FLUXOS.md                    # Oito procedimentos de análise
 ├── DADOS-E-METRICAS.md          # Formatos, validações e fórmulas
 ├── META-CONEXAO.md              # App Meta, token, depuração e leitura da API
+├── PEDIDOS-PRONTOS.md            # Seis análises copiáveis para começar
 ├── CONTEXTO.example.md          # Modelo para personalizar sua operação
 ├── CLAUDE.md                    # Compatibilidade com Claude Code
 ├── .gitignore                   # Protege arquivos locais contra commits acidentais
